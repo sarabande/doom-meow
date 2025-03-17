@@ -3,6 +3,8 @@
 #+created:  May 19, 2024
 #+since:    whenever v3 happens
 
+* For Colemak Mod DH layout
+
 * Description :unfold:
 
 This module integrates [[https://github.com/meow-edit/meow][Meow]] with Doom Emacs.
