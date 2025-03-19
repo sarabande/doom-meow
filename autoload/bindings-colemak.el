@@ -50,6 +50,7 @@
    '("b" . meow-back-word)
    '("B" . meow-back-symbol)
    '("c" . meow-change)
+   '("C" . meow-comment)
    '("e" . meow-prev)
    '("E" . meow-prev-expand)
    '("f" . meow-find)
