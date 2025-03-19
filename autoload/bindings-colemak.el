@@ -61,6 +61,7 @@
    '("i" . meow-right)
    '("I" . meow-right-expand)
    '("j" . meow-join)
+   '("C-i" . meow-indent)
    '("d" . meow-kill)
    '("l" . meow-next-word)
    '("L" . meow-goto-line)
